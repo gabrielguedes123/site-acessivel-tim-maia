@@ -3,7 +3,7 @@
 
 :root {
     --laranja-claro: #ff0000;
-    --alto-contraste-fundo: #ffffff;
+    --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #000000;
     --alto-contraste-link: #00d9ff;
 }
